@@ -1,0 +1,109 @@
+### Order Timing and Distribution:
+1. **Day-to-Day Variation in Orders:**
+   - How do order volumes fluctuate from one day to the next, and are there any specific trends linked to certain weekdays?
+
+2. **Peak Time for Order Placements:**
+   - What time of day sees the highest frequency of orders being placed, and does this vary by sales channel or product category?
+
+3. **Order Trends Around Specific Holidays:**
+   - Are there specific holidays (e.g., Diwali, New Year's) that significantly increase the number of orders, or do they shift demand to certain product categories?
+
+### Fulfillment & Sales Channels:
+4. **Impact of Easy Ship vs Merchant Fulfillment:**
+   - How does the use of Easy Ship compared to merchant fulfillment affect the order volume, order size, and cancellation rates?
+
+5. **Sales Channel Preferences by Region:**
+   - Do certain regions (metro vs non-metro) prefer Amazon or merchant fulfillment channels, and how does this impact overall sales?
+
+6. **Shipped vs Cancelled Orders by Fulfillment Type:**
+   - What is the correlation between order fulfillment method (Easy Ship vs merchant vs Amazon Fulfillment) and order status (shipped, cancelled, etc.)?
+
+### Product Categories & SKUs:
+7. **Best-Performing Product Categories:**
+   - Which product categories tend to generate the highest number of orders, and do these categories differ by region?
+
+8. **Effect of Product Size on Order Frequency:**
+   - Does the size of the product (e.g., small, medium, large) correlate with higher order volumes or more cancellations?
+
+9. **Top-Selling SKUs Over Time:**
+   - Which SKUs are consistently among the top sellers over different time periods?
+
+### Order Cancellation & Returns:
+10. **Cancellation Timing Patterns:**
+    - At what stage of the order process are cancellations most likely to occur—before shipment or after?
+
+11. **Effect of Discounts on Cancellation Rates:**
+    - Are orders involving discounts more likely to be cancelled or delayed compared to those without discounts?
+
+12. **Cancellation Rate by Product Category:**
+    - How does the cancellation rate differ across various product categories (e.g., clothing, electronics)?
+
+13. **Orders Returning to Seller:**
+    - Which SKUs experience the highest return rates after being shipped?
+
+### Geographic and Demographic Insights:
+14. **Regional Differences in Order Size:**
+    - Do larger or smaller orders dominate in specific regions or cities?
+
+15. **Delivery Speed Based on State/Region:**
+    - How do delivery times vary by state or region, and which states experience the fastest or slowest deliveries?
+
+16. **Regional Variation in Sales Channel Usage:**
+    - Are certain regions more likely to use one sales channel (Amazon, merchant, etc.) over another?
+
+### Courier and Delivery:
+17. **Courier Reliability in Different Regions:**
+    - Are certain couriers more reliable in specific regions, with fewer "Lost in Transit" or "Damaged" statuses?
+
+18. **Preferred Couriers Based on Order Size:**
+    - Do larger orders prefer specific couriers, and if so, does this correlate with faster delivery times or fewer cancellations?
+
+19. **Courier Service Level and Delivery Delays:**
+    - Is there a significant difference in delivery times or order cancellations between standard and expedited shipping options?
+
+### Order Value and Revenue:
+20. **Average Order Value by Product Category:**
+    - Which product categories consistently generate higher average order values, and what might be influencing these trends?
+
+21. **Price Sensitivity Across Different SKUs:**
+    - Are customers more likely to purchase products at certain price points, and how does this relate to order cancellation rates?
+
+22. **Effect of Promotions on Order Amounts:**
+    - How do promotional discounts influence the average order amount or order volume?
+
+### Operational and Logistic Insights:
+23. **Effect of Order Size on Delivery Timeliness:**
+    - Do larger orders experience longer delivery times or higher chances of delay, compared to smaller orders?
+
+24. **Impact of Order Fulfillment Method on Return Rates:**
+    - Does the method of fulfillment (Easy Ship vs Merchant) influence the likelihood of a product being returned?
+
+25. **Order Timing and Shipping Performance:**
+    - Are orders placed at specific times (e.g., weekends, evenings) more prone to delays in shipping?
+
+### Customer Behavior and Product Preferences:
+26. **Impact of Product Style on Order Preferences:**
+    - How do specific product styles (e.g., casual, formal, seasonal) influence customer purchasing behavior?
+
+27. **Frequency of Repeat Purchases by SKU:**
+    - Are certain SKUs being purchased repeatedly by customers, indicating higher loyalty or preference?
+
+28. **Impact of Product Size on Return Rates:**
+    - Do certain product sizes (S, M, L) have higher return rates, and how can this inform future stock decisions?
+
+### Shipping and Delivery Analysis:
+29. **Lost Shipments by Courier:**
+    - Which couriers have the highest percentage of lost shipments, and what can be done to address this?
+
+30. **Average Time to Ship by Product Category:**
+    - How long does it take to ship products in different categories, and does this time impact the overall customer satisfaction?
+
+### Market Trends and Insights:
+31. **Seasonal Sales Trends by Product Category:**
+    - Are there specific months or seasons where certain product categories experience higher sales?
+
+32. **Effect of Promotional Campaigns on Sales Volume:**
+    - How do promotional campaigns influence the volume of orders in specific product categories?
+
+33. **Sales Volume by Product Size:**
+    - How does the sales volume change across different product sizes, and are there any significant peaks in particular months?

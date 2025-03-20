@@ -1,0 +1,77 @@
+<h3><b> 
+Order Distribution and Timing
+
+    How does the volume of orders differ on weekends vs weekdays?
+    What is the peak hour for placing orders? Is there any time-of-day trend?
+    How many orders were placed during holidays or special events? Are these orders different in terms of size or category?
+    What day of the week has the highest number of cancelled orders?
+    Is there any significant difference in order volume between working days and weekends?
+
+Sales Channel and Fulfillment
+
+    What percentage of orders are fulfilled via Easy Ship compared to merchant or Amazon fulfillment?
+    Are there any noticeable seasonal variations in the preferred sales channel (e.g., Amazon.in vs Non-Amazon)?
+    Is there any relationship between the fulfillment method and the order status (e.g., "Cancelled" vs "Shipped")?
+    How does the order cancellation rate vary across different sales channels?
+
+Order Size and Product Analysis
+
+    What is the correlation between order quantity and the total order amount (value)?
+    Which product categories have the highest revenue per order?
+    How does the average order quantity vary between different categories or SKUs?
+    Are there any correlations between product size (e.g., 'S', 'M', 'L') and order status?
+    Are larger orders (in terms of quantity) more likely to be cancelled?
+Geographic Trends
+
+    What percentage of orders come from metro cities compared to smaller towns or rural areas?
+    Is there any noticeable difference in cancellation rates across different states or cities?
+    Which states have the most delayed shipments, and which have the highest on-time delivery rate?
+    Are some states more likely to use specific courier services than others?
+Promotions and Discounts
+
+    What percentage of orders involved promotional discounts? Does this affect the likelihood of cancellations?
+    How does the use of promotions impact the average order value (Amount)?
+    Do promotions seem to be associated with particular categories or product sizes?
+    Are orders with promotions more likely to have a longer shipping time?
+Product and Category Insights
+
+    What product SKUs have the highest return rate (status: "Shipped - Returned to Seller")?
+    Which categories tend to have higher order volumes during specific months (seasonal trends)?
+    What are the most frequently ordered product styles in terms of SKU?
+    How does product size distribution vary across different categories (e.g., "S", "M", "L", etc.)?
+Courier & Shipping Analysis
+
+    What is the average time taken for delivery based on courier service?
+    Do specific couriers have higher rates of "Lost in Transit" or "Shipped - Damaged" statuses?
+    How does the shipping service level (Standard vs Expedited) impact delivery time and cancellation rates?
+    Are there any courier services that consistently show higher cancellation rates?
+Order Amounts and Pricing
+
+    How do order amounts vary by product category, and is there a category that generates consistently high-value orders?
+    Are there significant differences in pricing (Amount) between different cities or states?
+    What is the distribution of order amounts? Are there more low-value or high-value orders?
+    Are there any noticeable pricing trends between B2B and B2C orders?
+Order Cancellation Insights
+
+    What percentage of cancellations occur before the order is shipped vs after?
+    Which order statuses are most commonly associated with cancellations (e.g., "Shipped - Lost in Transit")?
+    How do cancellation rates differ between "Merchant" vs "Amazon" fulfillment?
+    Do orders with larger quantities tend to have higher cancellation rates?
+B2B vs B2C Orders
+
+    What percentage of the total revenue is from B2B orders versus B2C orders?
+    Are B2B orders typically higher in quantity or amount than B2C orders?
+    What is the cancellation rate for B2B orders compared to B2C orders?
+    How do shipping times compare between B2B and B2C orders?
+Currency & Exchange Rate Effects
+
+    How does the currency (INR) fluctuate across different order amounts, and is there any noticeable pricing difference in specific cities or states?
+    Are there any patterns of orders being placed in specific months, which could indicate a change in exchange rates or promotional pricing?
+
+Fulfillment and Easy Ship Analysis
+
+    What percentage of orders were fulfilled via Easy Ship versus other fulfillment methods?
+    Do orders fulfilled by Easy Ship have a higher likelihood of being cancelled or returned?
+    What is the average shipping time for Easy Ship orders compared to other fulfillment methods?
+    Does the fulfillment method (Easy Ship vs Merchant Fulfilled) correlate with order size or category?
+</h3></b>

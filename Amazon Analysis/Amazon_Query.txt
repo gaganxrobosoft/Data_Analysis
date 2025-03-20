@@ -1,0 +1,82 @@
+<h4><b> 
+
+1. Order Analysis
+
+        What is the total number of orders in the dataset?
+        How many orders are successfully delivered versus cancelled?
+        What percentage of orders have been shipped vs cancelled or pending?
+        How many orders are marked as "Shipped" vs "Cancelled" in terms of status?
+
+2. Order Date & Time Analysis
+
+        What is the distribution of order dates in the dataset? Are there any trends or spikes on specific dates?
+        How many orders are placed per day or month?
+        Are orders evenly distributed throughout the months, or are there certain months with higher sales?
+
+3. Order Status & Fulfillment
+
+        How many orders are fulfilled by Amazon vs merchant fulfillment?
+        What is the most common fulfilment method? (Amazon or Merchant)
+        How many orders are marked as “Cancelled”? What are the most common reasons, if available?
+
+4. Sales Channel & Fulfilment
+
+        What is the breakdown of orders by sales channel? (e.g., Amazon.in vs other platforms)
+        What is the percentage of orders fulfilled by different channels (e.g., Easy Ship, Merchant)?
+
+5. Order Quantity and Amount
+
+        What is the distribution of order quantities (Qty)? Are orders mostly of one item, or multiple items?
+        What is the average amount spent per order? What is the total revenue from all orders?
+        Are there any outliers in the order amounts (i.e., unusually high or low value orders)?
+
+6. Courier Analysis
+
+        Which courier services are used the most for shipment?
+        What is the status of the couriers for each order (Shipped vs Pending)?
+
+7. Geographical Analysis
+
+        What is the distribution of orders across different cities and states?
+        Which cities or states have the highest number of orders?
+        How does the order volume vary by region (e.g., state or city)?
+        Are there any significant trends in shipping based on location (e.g., higher cancellations in specific areas)?
+
+8. Product Information
+
+        Which product styles (SKU, ASIN) are the most frequently sold?
+        What is the most common size ordered?
+        Which product categories have the highest sales volume?
+        What is the breakdown of sales by product category?
+
+9. Promotions and Discounts
+
+        How many orders used promotions (based on promotion-ids)?
+        What is the impact of promotions on the number of orders or order value?
+
+10. B2B Orders
+
+        How many of the orders are marked as B2B (Business-to-Business)?
+        What percentage of orders are B2B vs B2C?
+
+11. Currency & Pricing
+
+        Is there any fluctuation in the pricing (Amount) of orders in different cities or states?
+        What currency is being used for the transactions, and are there any noticeable exchange rate effects?
+
+12. Shipping Service Level
+
+        What shipping service levels are used the most (e.g., Standard, Expedited)?
+        Does the shipping service level affect the delivery time or cancellation rate?
+
+13. Fulfillment Analysis (p)
+
+        How many orders are fulfilled by Easy Ship vs other fulfillment methods?
+        Does Easy Ship have a higher cancellation rate compared to other fulfillment methods?
+
+14. Cancellation Analysis
+
+        What are the most common reasons for cancellations, if data is available?
+        Are cancellations more common with specific SKUs, styles, or categories?
+        What percentage of orders were cancelled after shipping vs before?
+</b></h4>
